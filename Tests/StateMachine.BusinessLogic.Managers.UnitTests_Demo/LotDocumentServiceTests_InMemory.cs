@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Humanizer.Localisation;
 using Microsoft.Extensions.DependencyInjection;
 using Trading.StateMachine.BusinessLogic.Managers.Abstraction;
 using Trading.StateMachine.BusinessLogic.Managers.Resources;
